@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Floor Machine
+  - Product
+  - Wall Machine
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 882792679
+    locked: 0
+  - name: Floor Machine
+    uniqueID: 4008381953
+    locked: 0
+  - name: Floor Overlay
+    uniqueID: 1837164241
+    locked: 0
+  - name: Product
+    uniqueID: 2636673931
+    locked: 0
+  - name: Wall Machine
+    uniqueID: 3068104639
+    locked: 0
+  - name: Wall Overlay
+    uniqueID: 4187924185
+    locked: 0
+  - name: Global Overlay
+    uniqueID: 209933995
+    locked: 0
+  - name: Cursor
+    uniqueID: 3414552645
+    locked: 0
